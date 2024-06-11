@@ -14,7 +14,6 @@
         "illuminate/database": "^8.12|^9.0|^10.0|^11.0",
         "illuminate/http": "^8.12|^9.0|^10.0|^11.0",
         "illuminate/support": "^8.12|^9.0|^10.0|^11.0",
-        "illuminate/database": "^8.12|^9.0|^10.0|^11.0"
         "ramsey/uuid": "^4.7"
     },
     "require-dev": {
