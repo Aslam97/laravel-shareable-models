@@ -1,12 +1,12 @@
 {
-    "name": "sassnowski/laravel-shareable-models",
-    "description": "Create shareable links from your eloquent models.",
+    "name": "aslam/laravel-shareable-models-v2",
+    "description": "This is the maintained version. Create shareable links from your eloquent models.",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Kai Sassnowski",
-            "email": "me@kai-sassnowki.com"
+            "name": "Aslam H",
+            "email": "iupin5212@gmail.com"
         }
     ],
     "require": {
